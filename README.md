@@ -205,11 +205,23 @@ The In-Memory Mock API sandbox simulates standard RESTful JSON conventions:
 
 ## 🖥️ Screenshots & Studio Walkthrough
 
-1. **Quick Domain Presets**: Click any badge pill (**Healthcare Triage**, **B2B SaaS Platform**, **E-Commerce Market**, or **Ride-Sharing Fleet**) to immediately trigger deterministic schema synthesis.
-2. **Relational ERD & Models**: Visual cards showcasing UUID primary keys (`PK`), cascading foreign keys (`FK -> TargetEntity`), indexes, and nullability.
-3. **Prisma Schema (`schema.prisma`)**: Production-ready schema models with 1-click "Copy Code" and download.
-4. **PostgreSQL DDL (`init.sql`)**: ANSI-compliant SQL with indexed foreign keys and `ON DELETE CASCADE`.
-5. **In-Memory Mock API**: Test simulated HTTP requests with live developer metrics (`Status: 200 OK`, `Latency: 4ms`, `Memory: Local Edge AST`).
+> **Interactive Video Walkthrough:** [`public/assets/video/schemacraft-demo.webm`](public/assets/video/schemacraft-demo.webm)  
+> **Voiceover Storyboard & Presentation Deck:** [`public/assets/VOICEOVER_SLIDES.md`](public/assets/VOICEOVER_SLIDES.md)
+
+| 01. Hero & 3NF Relational ERD Models | 02. Instant Domain Presets (B2B SaaS) |
+|:---:|:---:|
+| ![Hero & 3NF ERD](public/assets/screenshots/01_hero_and_erd.png) | ![Domain Presets](public/assets/screenshots/02_domain_presets.png) |
+| *Visual entity graph with UUID PKs & cascading foreign key reference badges.* | *Sub-15ms multi-tenant synthesis across organizations, roles, & subscriptions.* |
+
+| 03. PostgreSQL DDL & Prisma "Copy Code" | 04. In-Memory Mock API & Live Telemetry |
+|:---:|:---:|
+| ![Prisma & SQL](public/assets/screenshots/03_prisma_and_sql.png) | ![Mock API Telemetry](public/assets/screenshots/04_mock_api_telemetry.png) |
+| *Production ANSI SQL with ON DELETE CASCADE and 1-click toast feedback.* | *Zero-backend sandbox with 200 OK, 4ms latency, and live JSON payload search.* |
+
+| 05. Enterprise Hackathon Compliance & Documentation |
+|:---:|
+| ![Hackathon Compliance](public/assets/screenshots/05_hackathon_compliance.png) |
+| *Verified against scope.md, prd.md, spec.md, Docker, and MIT license.* |
 
 ---
 
