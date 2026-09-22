@@ -1,0 +1,5 @@
+file 'C:/Users/WALTON/.gemini/antigravity/scratch/schemacraft-ai/public/assets/video/audio_segments/part1_intro.mp3'
+file 'C:/Users/WALTON/.gemini/antigravity/scratch/schemacraft-ai/public/assets/video/audio_segments/part2_synthesis.mp3'
+file 'C:/Users/WALTON/.gemini/antigravity/scratch/schemacraft-ai/public/assets/video/audio_segments/part3_code_gen.mp3'
+file 'C:/Users/WALTON/.gemini/antigravity/scratch/schemacraft-ai/public/assets/video/audio_segments/part4_mock_api.mp3'
+file 'C:/Users/WALTON/.gemini/antigravity/scratch/schemacraft-ai/public/assets/video/audio_segments/part5_compliance.mp3'

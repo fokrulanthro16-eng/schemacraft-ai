@@ -205,8 +205,9 @@ The In-Memory Mock API sandbox simulates standard RESTful JSON conventions:
 
 ## 🖥️ Screenshots & Studio Walkthrough
 
-> **Interactive Video Walkthrough:** [`public/assets/video/schemacraft-demo.webm`](public/assets/video/schemacraft-demo.webm)  
-> **Voiceover Storyboard & Presentation Deck:** [`public/assets/VOICEOVER_SLIDES.md`](public/assets/VOICEOVER_SLIDES.md)
+> 🎬 **Official Presentation Video (with Neural Voiceover, 1080p MP4):** [`public/assets/video/schemacraft-presentation-voiceover.mp4`](public/assets/video/schemacraft-presentation-voiceover.mp4)  
+> 🎥 **Interactive Walkthrough (WebM):** [`public/assets/video/schemacraft-demo.webm`](public/assets/video/schemacraft-demo.webm)  
+> 🎙️ **Voiceover Storyboard & Presentation Deck:** [`public/assets/VOICEOVER_SLIDES.md`](public/assets/VOICEOVER_SLIDES.md)
 
 | 01. Hero & 3NF Relational ERD Models | 02. Instant Domain Presets (B2B SaaS) |
 |:---:|:---:|
