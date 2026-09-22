@@ -3,8 +3,16 @@
 **Autonomous Zero-Backend 3NF Relational Schema Architect & In-Memory Mock API Sandbox**  
 *Built for the Devpost "Build With AI: Basics" Hackathon*
 
+<div align="center">
+
+### 🌐 [**Try Live Demo: schemacraft-ai-beta.vercel.app**](https://schemacraft-ai-beta.vercel.app) • 🎬 [**Watch YouTube Demo Walkthrough**](https://youtu.be/-e5Dao9B66U)
+
+</div>
+
 ---
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://schemacraft-ai-beta.vercel.app)
+[![YouTube Walkthrough](https://img.shields.io/badge/Demo%20Video-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/-e5Dao9B66U)
 [![Next.js 14](https://img.shields.io/badge/Next.js-14.2-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![TypeScript 5](https://img.shields.io/badge/TypeScript-5.7-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38bdf8?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/)
@@ -203,10 +211,29 @@ The In-Memory Mock API sandbox simulates standard RESTful JSON conventions:
 
 ---
 
+## 🎬 Video Walkthrough
+
+Watch the complete 1080p synchronized walkthrough presentation with professional neural voiceover:
+
+[![SchemaCraft AI Walkthrough](https://img.shields.io/badge/Watch%20Demo%20on-YouTube%20(1080p)-red?style=for-the-badge&logo=youtube)](https://youtu.be/-e5Dao9B66U)
+
+> 📺 **Direct YouTube Stream:** [**https://youtu.be/-e5Dao9B66U**](https://youtu.be/-e5Dao9B66U)  
+> 🎙️ **Voiceover Presentation Deck & Script:** [`public/assets/VOICEOVER_SLIDES.md`](public/assets/VOICEOVER_SLIDES.md)  
+> 📦 **Raw Master Presentation MP4 (1080p):** [`public/assets/video/schemacraft-presentation-voiceover.mp4`](public/assets/video/schemacraft-presentation-voiceover.mp4)
+
+### Walkthrough Chapters:
+- **0:00 - 0:18:** *The Developer Bottleneck & Zero-Backend Vision*
+- **0:18 - 0:36:** *Deterministic 3NF Normalization & Instant Domain Presets*
+- **0:36 - 0:47:** *Production-Ready PostgreSQL DDL & Prisma 5 Models with 1-Click Copy*
+- **0:47 - 0:57:** *Edge In-Memory Mock REST Sandbox with Sub-6ms Telemetry*
+- **0:57 - 1:09:** *Enterprise Dockerization & Devpost Hackathon Compliance*
+
+---
+
 ## 🖥️ Screenshots & Studio Walkthrough
 
-> 🎬 **Official Presentation Video (with Neural Voiceover, 1080p MP4):** [`public/assets/video/schemacraft-presentation-voiceover.mp4`](public/assets/video/schemacraft-presentation-voiceover.mp4)  
-> 🎥 **Interactive Walkthrough (WebM):** [`public/assets/video/schemacraft-demo.webm`](public/assets/video/schemacraft-demo.webm)  
+> 🎬 **YouTube Video Walkthrough:** [**https://youtu.be/-e5Dao9B66U**](https://youtu.be/-e5Dao9B66U)  
+> 🌐 **Live Web Application:** [**https://schemacraft-ai-beta.vercel.app**](https://schemacraft-ai-beta.vercel.app)  
 > 🎙️ **Voiceover Storyboard & Presentation Deck:** [`public/assets/VOICEOVER_SLIDES.md`](public/assets/VOICEOVER_SLIDES.md)
 
 | 01. Hero & 3NF Relational ERD Models | 02. Instant Domain Presets (B2B SaaS) |
